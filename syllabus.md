@@ -3,7 +3,12 @@ Pace Advanced iOS Class
 
 * XCode 7
 * iOS 9
-* iPhones, iPads, Apple Watch
+* WatchOS 2.0
+* Swift 2.0
+* tvOS
+* iPhones, iPads, Apple Watch, Apple TV
+
+All class communication, file sharing, etc. is down with Slack and GitHub.
 
 Swift with Cocoa and Objective­C
 -------------------------------
